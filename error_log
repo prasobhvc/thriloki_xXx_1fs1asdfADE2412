@@ -1,0 +1,18 @@
+[29-Apr-2016 23:06:12 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:06:53 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:07:04 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:07:24 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:07:39 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:07:51 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:08:33 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:08:38 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:08:42 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:08:47 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:09:08 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[29-Apr-2016 23:09:10 Asia/Kolkata] PHP Fatal error:  Call to a member function use_pager() on a non-object in /home/thrilaxo/public_html/sites/all/modules/views/includes/view.inc on line 690
+[07-Jun-2016 20:10:50 Asia/Kolkata] PHP Fatal error:  Cannot redeclare bartik_preprocess_html() (previously declared in /home/thrilaxo/public_html/sites/all/themes/thriloki/template.php:6) in /home/thrilaxo/public_html/themes/bartik/template.php on line 27
+[08-Jun-2016 18:43:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/thrilaxo/public_html/sites/all/themes/thriloki/templates/page.tpl.php on line 277
+[08-Jun-2016 18:43:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/thrilaxo/public_html/sites/all/themes/thriloki/templates/page.tpl.php on line 277
+[14-Jun-2016 02:56:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/thrilaxo/public_html/sites/all/themes/thriloki/templates/header.tpl.php on line 90
+[14-Jun-2016 02:56:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/thrilaxo/public_html/sites/all/themes/thriloki/templates/header.tpl.php on line 90
+[14-Jun-2016 02:56:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/thrilaxo/public_html/sites/all/themes/thriloki/templates/header.tpl.php on line 90
